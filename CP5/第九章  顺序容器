@@ -1,0 +1,6 @@
+vector  可变大小
+deque   可变大小
+list    可变大小
+forward_list 可变大小
+array   固定大小  array<类型，n> //保存n个为某一类型的数组
+string  可变大小
